@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "Prithvi's thoughts as Digital Signals"
+author: "Prithvi Shah"
+description: "This blog will mainly go through my thoughts working as a data scientist. In my spare time, I also write about my hobbies - music, political ideologies and other ideas I think about." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "itsprithvi.14@gmail.com"
+#twitter_username: "twitteruser"
+github_username: "Prithvi-Shah"
+linkedin_username: "prithvi-shah-0218b6142"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
